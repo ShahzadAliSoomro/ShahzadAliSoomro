@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next-Js**
 
-- 👨‍💻 All of my projects are available at https://portfolio-shahzad.vercel.app/
+- 👨‍💻 All of my projects are available at https://dev-shahzad.vercel.app/
 
 - 💬 Ask me about **Full Stack**
 
